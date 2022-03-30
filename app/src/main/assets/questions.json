@@ -1,0 +1,18 @@
+[
+	{
+		"index": 0,
+		"questionText": "The properties of solids can be explained by the structure of and the bonding among the metal atoms",
+		"questionExplanation": "True",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 0
+	},
+	{
+		"index": 1,
+		"questionText": "A nonpolar bond is formed when two atoms share electrons unequally.",
+		"questionExplanation": "False; Equally",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 1
+	}
+]
