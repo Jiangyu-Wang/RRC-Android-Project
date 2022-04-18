@@ -9,6 +9,8 @@ public class Question {
     public String option2;
     public int correctAnswerIndex;
 
+    public Question() {}
+
     public Question(int index, String questionText, String questionExplanation, String option1, String option2, int correctAnswerIndex) {
         this.index = index;
         this.questionText = questionText;

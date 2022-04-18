@@ -1,16 +1,56 @@
 [
 	{
 		"index": 0,
-		"questionText": "The properties of solids can be explained by the structure of and the bonding among the metal atoms",
-		"questionExplanation": "True",
+		"questionText": "The Big Apple is a nickname given to Washington D.C in 1971.",
+		"questionExplanation": "Correct answer: False\nThe name refers to New York City. It originated in the 1920s when John Fitz Gerald started a horse racing column called “Around the Big Apple”",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 1
+	},
+	{
+		"index": 1,
+		"questionText": "Muddy York is a nickname for New York in the Winter.",
+		"questionExplanation": "Correct answer: False\nIt’s an old nickname given to Toronto, originally called Town of York in honor of The Duke of York. It refers to historical problems in the city’s drainage system. ",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 1
+	},
+	{
+		"index": 2,
+		"questionText": "Peanuts are not nuts!",
+		"questionExplanation": "Correct answer: True\nPeanuts are legumes like lentils and peas.",
 		"option1": "True",
 		"option2": "False",
 		"correctAnswerIndex": 0
 	},
 	{
-		"index": 1,
-		"questionText": "A nonpolar bond is formed when two atoms share electrons unequally.",
-		"questionExplanation": "False; Equally",
+		"index": 3,
+		"questionText": "People may sneeze or cough while sleeping deeply.\n",
+		"questionExplanation": "Correct answer: False\nWe can’t sneeze or cough when in deep sleep. Our body must enter a state of wakefulness to do so.",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 1
+	},
+	{
+		"index": 4,
+		"questionText": "Copyrights depreciate over time.",
+		"questionExplanation": "Correct answer: True\nBecause copyrights have an expiration date, their value decreases as that date approaches.",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 0
+	},
+	{
+		"index": 5,
+		"questionText": "Emus can’t fly.",
+		"questionExplanation": "Correct answer: True\nJust like ostriches, emus are ratites (flightless birds). Their wings aren’t strong enough to lift them.",
+		"option1": "True",
+		"option2": "False",
+		"correctAnswerIndex": 0
+	},
+	{
+		"index": 6,
+		"questionText": "Electrons move faster than the speed of light.",
+		"questionExplanation": "Correct answer: False\nElectrons are much slower than the speed of light because they have mass.",
 		"option1": "True",
 		"option2": "False",
 		"correctAnswerIndex": 1
